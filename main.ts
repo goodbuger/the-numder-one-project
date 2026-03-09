@@ -1,10 +1,4 @@
-basic.showLeds(`
-    . # . # .
-    . # . # .
-    . . . . .
-    . # . # .
-    . # # # .
-    `)
+basic.showString("Heliiiiiiiiiiiiiiiiimmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmkkkkkkkkkkkkkkkkmo!")
 basic.forever(function () {
-    basic.showNumber(21)
+	
 })
